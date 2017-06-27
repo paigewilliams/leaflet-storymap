@@ -54,12 +54,7 @@ function initMap() {
             class: 'image-container'
           });
 
-          var imgHolder = $('<div></div', {
-            class: 'img-holder'
-          });
-
-          imgHolder.append(image);
-
+      
           container.append(chapter).append(imgHolder).append(source).append(description);
           $('#contents').append(container);
 
