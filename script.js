@@ -1,5 +1,3 @@
-var imageContainerMargin = 70;  // Margin + padding
-
 // This watches for the scrollable container
 var scrollPosition = 0;
 $('div#contents').scroll(function() {
@@ -64,14 +62,13 @@ function initMap() {
 
           // Calculating total height of blocks above active
           for (i = 1; i < feature.properties['id']; i++) {
-            areaTop += $('div#container' + i).height() + imageContainerMargin;
+            areaTop += $('div#container' + i).height();
           }
 
           areaBottom = areaTop + $('div#container' + feature.properties['id']).height();
 
           $('div#contents').scroll(function() {
-            if ($(this).scrollTop() >= areaTop && $(this).scrollTop() < areaBottom) {
-              $('.image-container').removeClass("inFocus").addClass("outFocus");
+            if ($(this).scrollTop() >= areaTop && $(this).scrollTop() < areaBottom)
               $('div#container' + feature.properties['id']).addClass("inFocus").removeClass("outFocus");
 
               map.flyTo([feature.geometry.coordinates[1], feature.geometry.coordinates[0] ], feature.properties['zoom']);
