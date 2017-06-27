@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "Name": "USP VICTORVILLE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -117.3613548, 34.5706852, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "USP VICTORVILLE", "Description": "blah" }, "geometry": { "type": "Point", "coordinates": [ -117.3613548, 34.5706852, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Mira Loma Detention Center", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -118.23478540000001, 34.7015766, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Avenal State Prison", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -120.1233101, 35.9742206, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "Pleasant Valley State Prison", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -120.2487612, 36.1314502, 0.0 ] } },
