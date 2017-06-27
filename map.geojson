@@ -3,10 +3,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "id": "1", "zoom": "16", "chapter": "USP VICTORVILLE", "description": "Victorville Federal Correctional Complex in San Bernardino County was built on a weapons storage area of a former air force base. The base has been designated a Superfund site.
-" }, "geometry": { "type": "Point", "coordinates": [ -117.3613548, 34.5706852, 0.0 ] } },
-{ "type": "Feature", "properties": { "id": "2", "zoom": "16", "chapter": "Mira Loma Detention Center", "description": "Plans are afoot to build a women’s jail in Lancaster California at the former Mira Loma Detention Center which itself was built on a former military base. Los Angeles County itself has determined that the site is violating hazardous waste standards with respect to soil and toxic waste disposal and prisoners’ rights advocates are campaigning against the project.
-" }, "geometry": { "type": "Point", "coordinates": [ -118.23478540000001, 34.7015766, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "1", "zoom": "16", "chapter": "USP VICTORVILLE", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -117.3613548, 34.5706852, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "2", "zoom": "16", "chapter": "Mira Loma Detention Center", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -118.23478540000001, 34.7015766, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "3", "zoom": "16", "chapter": "Avenal State Prison", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -120.1233101, 35.9742206, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "4", "zoom": "16", "chapter": "Pleasant Valley State Prison", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -120.2487612, 36.1314502, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "5", "zoom": "15", "chapter": "Centennial Correctional Facility", "description": "" }, "geometry": { "type": "Point", "coordinates": [ -105.153419, 38.4383102, 0.0 ] } },
