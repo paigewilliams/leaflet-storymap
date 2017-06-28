@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "id": "1", "zoom": "16", "chapter": "USP VICTORVILLE", "description": "blah" }, "geometry": { "type": "Point", "coordinates": [ -117.3613548, 34.5706852, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "1", "zoom": "16", "chapter": "USP VICTORVILLE", "description": "Victorville Federal Correctional Complex in San Bernardino County was built on a weapons storage area of a former air force base. The base has been designated a Superfund site." }, "geometry": { "type": "Point", "coordinates": [ -117.3613548, 34.5706852, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "2", "zoom": "16", "chapter": "Mira Loma Detention Center", "description": "blah" }, "geometry": { "type": "Point", "coordinates": [ -118.23478540000001, 34.7015766, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "3", "zoom": "16", "chapter": "Avenal State Prison", "description": "blah" }, "geometry": { "type": "Point", "coordinates": [ -120.1233101, 35.9742206, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "4", "zoom": "16", "chapter": "Pleasant Valley State Prison", "description": "blah" }, "geometry": { "type": "Point", "coordinates": [ -120.2487612, 36.1314502, 0.0 ] } },
