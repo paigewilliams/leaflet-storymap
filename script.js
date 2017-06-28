@@ -71,7 +71,7 @@ function initMap() {
           
           imgHolder.append(image);
           
-          container.append(chapter). append(imgHolder).append(source).append(description);
+          container.append(chapter).append(imgHolder).append(source).append(description);
           $('#contents').append(container);
 
           var i;
