@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Northwest Detention Center", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -122.4212297, 47.2491503, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Avenal and Pleasant Valley ", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -120.189743, 36.0532626, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mira Loma Detention Center", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -118.23478540000001, 34.7015766, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "USP VICTORVILLE", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -117.3613548, 34.5706852, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Canon City", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -105.1422501, 38.4049086, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "FMC Carswell", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -97.4198089, 32.7812378, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Wallace Pack Unit", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -96.1061452, 30.3244896, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Orleans Parish Prison", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -90.09187, 29.9617217, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Escambia County Jail", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -87.2369763, 30.4434327, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Letcher county", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -82.9537082, 37.1026825, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "South Central Regional Jail", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -81.7102307, 38.3109984, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "State Correctional Institution - Fayette", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -79.9880432, 40.0002927, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "New Jersey", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -74.4268799, 40.3716589, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Sing Sing Correctional Facility", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -73.8679897, 41.1511759, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rikers Island Correctional Center", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -73.8864467, 40.7921377, 0.0 ] } }
+]
+}
